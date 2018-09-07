@@ -1,0 +1,8 @@
+https://github.com/wingjammer1993/VR_1
+
+The repository has 2 folders
+
+HelloCardboard, which contains the project through step 5
+HelloWand, which contains a new project, for step 6, it is a wand which throws firebolts on tapping.
+
+Screenshots for both projects are attached.
